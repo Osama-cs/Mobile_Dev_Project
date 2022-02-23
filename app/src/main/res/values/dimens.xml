@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawablePadding" >256dp</dimen>
+    <dimen name="widget_width_1" >8dp </dimen>
+    <dimen name="notes_title_ts">45dp</dimen>
+    <dimen name="notes_content_ts">16dp</dimen>
+</resources>

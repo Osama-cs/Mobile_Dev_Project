@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">C1943625</string>
+    <string name="notes_button"> Notes Button</string>
+    <string name="todo_button">To Do List </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_save_text">Save </string>
+    <string name="title">Title</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="submit">SUBMIT</string>
+    <string name="journal">Journal</string>
+    <string name="update">UPDATE</string>
+    <string name="what_number_entry_is_this">What number entry is this?</string>
+    <string name="view_journals">View Journals</string>
+    <string name="home">Home</string>
+    <string name="hyperlink"><a href="https://mentalhealth-uk.org">MentalHealthUk.org</a></string>
+    <string name="mood_for_the_day">Mood for the day?</string>
+</resources>
